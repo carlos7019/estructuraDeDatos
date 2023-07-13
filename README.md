@@ -4,3 +4,5 @@ estamos realizando practicas de manejo de GITHUB
 se completo desde git 
 ## 2.- BORRAR LOS ARCHIVOS 
 se quitaron los archivos localmente
+## .-3 EDITADO EN GITHUB
+esta linea modificado en la nuve
